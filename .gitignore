@@ -1,0 +1,8 @@
+.env
+*.local
+raw-export*.json
+.tmp/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
